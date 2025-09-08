@@ -1,0 +1,5 @@
+{
+  "name": "LZ Banana",
+  "description": "A web application to generate new images from text prompts and edit existing images using the power of Gemini AI models.",
+  "requestFramePermissions": []
+}
