@@ -16,7 +16,7 @@ const App: React.FC = () => {
           <div className="flex items-center justify-center gap-4 mb-2">
             <PhotoIcon className="w-12 h-12 text-indigo-400" />
             <h1 className="text-4xl sm:text-5xl font-bold tracking-tight bg-gradient-to-r from-indigo-400 to-purple-500 text-transparent bg-clip-text">
-              Gemini Image Studio
+              LIZHOU Image
             </h1>
           </div>
           <p className="text-gray-400 text-lg">
